@@ -931,6 +931,9 @@
     <CudaCompile Include="lyra2\allium.cu">
       <Filter>Source Files\CUDA\lyra2</Filter>
     </CudaCompile>
+    <CudaCompile Include="lyra2\alliumV2.cu">
+      <Filter>Source Files\CUDA\lyra2</Filter>
+    </CudaCompile>
     <CudaCompile Include="lyra2\cuda_lyra2.cu">
       <Filter>Source Files\CUDA\lyra2</Filter>
     </CudaCompile>
