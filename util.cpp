@@ -2175,6 +2175,9 @@ void print_hash_tests(void)
 	allium_hash(&hash[0], &buf[0]);
 	printpfx("allium", hash);
 
+	alliumV2_hash(&hash[0], &buf[0]);
+	printpfx("allium", hash);
+	
 	bastionhash(&hash[0], &buf[0]);
 	printpfx("bastion", hash);
 
